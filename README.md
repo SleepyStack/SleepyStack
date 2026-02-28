@@ -7,7 +7,6 @@
 <br/>
 
 ### Backend Developer | Secure APIs | Microservices  
-**Location:** West Jurong, Singapore | New Delhi, India
 
 </div>
 
