@@ -17,12 +17,14 @@
 
 ---
 
-## Ocean Stack (Skills & Tools)
+## Skills & Tools (Ocean Stack)
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-003049?style=for-the-badge&logo=openjdk&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/Spring-003049?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003049?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Hibernate](https://img.shields.io/badge/Hibernate-003049?style=for-the-badge&logo=hibernate&logoColor=ffffff)
+![Flyway](https://img.shields.io/badge/Flyway-003049?style=for-the-badge&logo=flyway&logoColor=ffffff)
 ![C](https://img.shields.io/badge/C-003049?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![Maven](https://img.shields.io/badge/Maven-003049?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
 ![SQL](https://img.shields.io/badge/SQL-003049?style=for-the-badge&logo=postgresql&logoColor=ffffff)
@@ -31,9 +33,7 @@
 
 ![AWS](https://img.shields.io/badge/AWS-003049?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
 ![Vercel](https://img.shields.io/badge/Vercel-003049?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/Netlify-003049?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Git](https://img.shields.io/badge/Git-003049?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-003049?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
