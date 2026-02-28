@@ -23,20 +23,26 @@ jobs:
           USERNAME: SleepyStack
           TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
-          curl -L \
+          set -euo pipefail
+          curl -fL \
             -H "Authorization: token ${TOKEN}" \
+            -H "Accept: image/svg+xml" \
             "https://github-readme-stats.vercel.app/api?username=${USERNAME}&show_icons=true&theme=tokyonight&hide_border=true" \
             -o assets/stats/github-stats.svg
+          grep -q "<svg" assets/stats/github-stats.svg
 
       - name: Render Top Languages card (local)
         env:
           USERNAME: SleepyStack
           TOKEN: ${{ secrets.GH_STATS_TOKEN }}
         run: |
-          curl -L \
+          set -euo pipefail
+          curl -fL \
             -H "Authorization: token ${TOKEN}" \
+            -H "Accept: image/svg+xml" \
             "https://github-readme-stats.vercel.app/api/top-langs/?username=${USERNAME}&layout=compact&theme=tokyonight&hide_border=true" \
             -o assets/stats/top-langs.svg
+          grep -q "<svg" assets/stats/top-langs.svg
 
       - name: Commit & push if changed
         run: |
