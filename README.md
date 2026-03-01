@@ -16,7 +16,7 @@
 
 ---
 
-## Skills & Tools (Ocean Stack)
+## Skills & Tools
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-003049?style=for-the-badge&logo=openjdk&logoColor=ffffff)
