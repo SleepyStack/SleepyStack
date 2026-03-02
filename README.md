@@ -20,13 +20,19 @@
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-003049?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-003049?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![Spring](https://img.shields.io/badge/Spring-003049?style=for-the-badge&logo=spring&logoColor=6DB33F)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-003049?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 ![Hibernate](https://img.shields.io/badge/Hibernate-003049?style=for-the-badge&logo=hibernate&logoColor=ffffff)
-![Flyway](https://img.shields.io/badge/Flyway-003049?style=for-the-badge&logo=flyway&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-003049?style=for-the-badge&logo=c&logoColor=A8B9CC)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-003049?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-003049?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-003049?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-003049?style=for-the-badge&logo=redis&logoColor=DC382D)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-003049?style=for-the-badge&logo=elasticsearch&logoColor=005571)
+
 ![Maven](https://img.shields.io/badge/Maven-003049?style=for-the-badge&logo=apachemaven&logoColor=C71A36)
-![SQL](https://img.shields.io/badge/SQL-003049?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![Flyway](https://img.shields.io/badge/Flyway-003049?style=for-the-badge&logo=flyway&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-003049?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Kafka](https://img.shields.io/badge/Kafka-003049?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
 
