@@ -14,9 +14,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001f3f,50:0077b6,100:00b4d8&height=110&section=header" alt="Ocean wave header" />
 </p>
 
----
 
-## Skills & Tools
 <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-003049?style=for-the-badge&logo=openjdk&logoColor=ffffff)
@@ -42,17 +40,6 @@
 
 </div>
 
----
-
-## Tide Charts (Stats)
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-nine-nu-27.vercel.app/api?username=SleepyStack&custom_title=SleepyStack%27s%20GitHub%20Stats&show_icons=true&theme=tokyonight&hide_border=true&hide=issues,contribs" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats-nine-nu-27.vercel.app/api/top-langs/?username=SleepyStack&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-</div>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:001f3f&height=110&section=footer" alt="Ocean wave footer" />
